@@ -1,1 +1,11 @@
-# Exploratory-Data-Analysis-in-python 20th May 2021
+Exploratory-Data-Analysis-in-python
+
+As a Data scientist, you have to carry out Exploratory Data analysis to get insights. I worked on Titanic Data set by following EDA steps.
+
+## contributers
+
+-William okomba <willokomba@gmail.com
+
+## lisence & copyright
+
+william okomba, Moringa school Data science student.
